@@ -42,4 +42,32 @@ Where:
 
 ---
 
-## MODEL GRAPH
+## MODEL GRAPH / SCILAB OUTPUT
+
+![Model Graphs and Scilab Output](images/page_1.png)
+
+---
+
+## PROGRAM / CODE
+
+![Aim and Scilab Code](images/page_2.png)
+
+![Scilab Code Continuation](images/page_3.png)
+
+---
+
+## TABULATION
+
+![Tabulation](images/page_3.png)
+
+---
+
+## CALCULATIONS
+
+![Calculations](images/page_3.png)
+
+---
+
+## RESULT
+
+![Result](images/page_3.png)
